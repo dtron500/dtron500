@@ -48,25 +48,22 @@
 
 ###
 
-<h3 align="left">Reach out 😎!</h3>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/daniel-mitchell-879109246" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="daniel.mitchell3005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">Project 🧠</h3>
 
 ###
 
 <p align="left">Check out my final project for the School of Code, DreamCatcher 🌙<br><br>https://issuu.com/dtron500/docs/daniel_mitchell_dreamcatcher</p>
+
+###
+
+<h3 align="left">Reach out 😎!</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/daniel-mitchell-879109246/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
